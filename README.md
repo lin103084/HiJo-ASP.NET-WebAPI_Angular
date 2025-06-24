@@ -1,3 +1,4 @@
+[HiJo專題報告簡報](https://www.canva.com/design/DAGrR3uOTvU/tiLcPJzIJmQj9jCLxMbmXg/edit?utm_content=DAGrR3uOTvU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 # HiJo 專案整體架構與部署介紹
 
 **HiJo** 是一個現代化的交友活動平台，採用 **前後端分離架構** 開發，  
