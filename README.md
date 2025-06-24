@@ -10,7 +10,7 @@
 
 ### 🔹 前端 Frontend
 - **技術：** Angular 16（模組化架構）
-- **UI 套件：** Bootstrap + PrimeNG
+- **UI 套件：** Bootstrap
 - **路由規劃：**
   - `/auth`: 登入／註冊／忘記密碼
   - `/members`: 個人資料、配對、聊天室
