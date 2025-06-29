@@ -1,5 +1,13 @@
 [HiJo專題報告簡報](https://www.canva.com/design/DAGrR3uOTvU/tiLcPJzIJmQj9jCLxMbmXg/edit?utm_content=DAGrR3uOTvU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[iSpan資展國際【智慧應用微軟 C# 工程師就業養成班 MSIT 164期】期末專題成果發表會](https://youtu.be/qYOYJKjN7t0?t=4007) B組HIJO 時間1:06:00 ~ 1:37:00
+
+[iSpan資展國際【智慧應用微軟 C# 工程師就業養成班 MSIT 164期】期末專題成果發表會](https://youtu.be/qYOYJKjN7t0?t=4007)
+
+ B組HiJo 時間1:06:00 ~ 1:37:00
+
+
+
+
+
 # HiJo 專案整體架構與部署介紹 (資策會第三次專題)
 
 **HiJo** 是一個現代化的交友活動平台，採用 **前後端分離架構** 開發，  
